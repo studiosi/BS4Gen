@@ -4,7 +4,7 @@ A Bootstrap 4 page structure generator via structured and reusable templates.
 
 ## Usage
 
-´´´
+```
 Usage: BS4Gen.py [OPTIONS]
 
 Options:
@@ -13,7 +13,7 @@ Options:
   -l, --lang TEXT      Language code for the generated HTML (i.e. "en")
   -i, --title TEXT     Title of the generated HTML (inside <title> tag)
   --help               Show this message and exit.
-´´´
+```
 
 # Installation
 
